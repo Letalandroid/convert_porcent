@@ -1,1 +1,3 @@
-`porcentaje = (num_menor / num_mayor) * 100`
+```ruby
+porcentaje = (num_menor / num_mayor) * 100
+```
