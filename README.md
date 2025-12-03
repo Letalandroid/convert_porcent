@@ -1,1 +1,1 @@
-porcentaje = (num_menor / num_mayor) * 100
+`porcentaje = (num_menor / num_mayor) * 100`
